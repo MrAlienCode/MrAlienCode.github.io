@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://MrAlienCode.github.io
+title: Mathew Berry
+tagline: I am a web developer
+description: A safe haven for me to express myself freely.
+paginate: 5
